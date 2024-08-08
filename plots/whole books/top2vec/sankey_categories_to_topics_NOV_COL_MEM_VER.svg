@@ -1,0 +1,121 @@
+<svg height="600" width="600" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 05/06/2024, 12:54:02 -->
+<rect height="600" width="600" fill="#ffffff"></rect>
+<g transform="translate(249.0943,0)">
+<g id="sankey_flows">
+<path id="flow0" d="M12 80.64605C155.07758 80.64605 155.07758 50.20001 298.15516 50.20001" fill="none" stroke-width="56.72106" stroke="#17becf" opacity="0.45"><title>NOV: próza Trans → 101: 134</title></path>
+<path id="flow1" d="M12 372.15573C155.07758 372.15573 155.07758 431.49647 298.15516 431.49647" fill="none" stroke-width="35.55649" stroke="#17becf" opacity="0.45"><title>NOV: próza Czech → 100: 84</title></path>
+<path id="flow23" d="M12 562.07544C155.07758 562.07544 155.07758 494.5669 298.15516 494.5669" fill="none" stroke-width="32.17015" stroke="#bcbd22" opacity="0.45"><title>MEM: memoáry, autobiografie Czech → 100: 76</title></path>
+<path id="flow15" d="M12 490.0914C155.07758 490.0914 155.07758 463.87827 298.15516 463.87827" fill="none" stroke-width="29.20711" stroke="#e377c2" opacity="0.45"><title>COL: kratší próza Czech → 100: 69</title></path>
+<path id="flow4" d="M12 166.99752C155.07758 166.99752 155.07758 325.86075 298.15516 325.86075" fill="none" stroke-width="20.31799" stroke="#17becf" opacity="0.45"><title>NOV: próza Trans → 102: 48</title></path>
+<path id="flow6" d="M12 132.07597C155.07758 132.07597 155.07758 198.18937 298.15516 198.18937" fill="none" stroke-width="18.20153" stroke="#17becf" opacity="0.45"><title>NOV: próza Trans → 103: 43</title></path>
+<path id="flow8" d="M12 149.00763C155.07758 149.00763 155.07758 261.91924 298.15516 261.91924" fill="none" stroke-width="15.66179" stroke="#17becf" opacity="0.45"><title>NOV: próza Trans → 104: 37</title></path>
+<path id="flow3" d="M12 115.99089C155.07758 115.99089 155.07758 136.57597 298.15516 136.57597" fill="none" stroke-width="13.96862" stroke="#17becf" opacity="0.45"><title>NOV: próza Trans → 105: 33</title></path>
+<path id="flow17" d="M12 243.21448C155.07758 243.21448 155.07758 341.31089 298.15516 341.31089" fill="none" stroke-width="10.58229" stroke="#e377c2" opacity="0.45"><title>COL: kratší próza Trans → 102: 25</title></path>
+<path id="flow2" d="M12 349.72128C155.07758 349.72128 155.07758 352.52811 298.15516 352.52811" fill="none" stroke-width="9.31241" stroke="#17becf" opacity="0.45"><title>NOV: próza Czech → 102: 22</title></path>
+<path id="flow12" d="M12 471.46657C155.07758 471.46657 155.07758 361.62888 298.15516 361.62888" fill="none" stroke-width="8.04254" stroke="#e377c2" opacity="0.45"><title>COL: kratší próza Czech → 102: 19</title></path>
+<path id="flow14" d="M12 221.41497C155.07758 221.41497 155.07758 82.37016 298.15516 82.37016" fill="none" stroke-width="7.61925" stroke="#e377c2" opacity="0.45"><title>COL: kratší próza Trans → 101: 18</title></path>
+<path id="flow11" d="M12 233.05548C155.07758 233.05548 155.07758 210.46483 298.15516 210.46483" fill="none" stroke-width="6.34937" stroke="#e377c2" opacity="0.45"><title>COL: kratší próza Trans → 103: 15</title></path>
+<path id="flow9" d="M12 342.73697C155.07758 342.73697 155.07758 273.7714 298.15516 273.7714" fill="none" stroke-width="4.65621" stroke="#17becf" opacity="0.45"><title>NOV: próza Czech → 104: 11</title></path>
+<path id="flow13" d="M12 227.55269C155.07758 227.55269 155.07758 145.88838 298.15516 145.88838" fill="none" stroke-width="4.65621" stroke="#e377c2" opacity="0.45"><title>COL: kratší próza Trans → 105: 11</title></path>
+<path id="flow7" d="M12 337.86912C155.07758 337.86912 155.07758 89.56612 298.15516 89.56612" fill="none" stroke-width="4.23291" stroke="#17becf" opacity="0.45"><title>NOV: próza Czech → 101: 10</title></path>
+<path id="flow5" d="M12 178.84968C155.07758 178.84968 155.07758 407.79215 298.15516 407.79215" fill="none" stroke-width="3.38633" stroke="#17becf" opacity="0.45"><title>NOV: próza Trans → 100: 8</title></path>
+<path id="flow24" d="M12 293.61066C155.07758 293.61066 155.07758 215.33268 298.15516 215.33268" fill="none" stroke-width="3.38633" stroke="#bcbd22" opacity="0.45"><title>MEM: memoáry, autobiografie Trans → 103: 8</title></path>
+<path id="flow27" d="M12 544.2972C155.07758 544.2972 155.07758 367.34331 298.15516 367.34331" fill="none" stroke-width="3.38633" stroke="#bcbd22" opacity="0.45"><title>MEM: memoáry, autobiografie Czech → 102: 8</title></path>
+<path id="flow26" d="M12 290.43597C155.07758 290.43597 155.07758 149.698 298.15516 149.698" fill="none" stroke-width="2.96304" stroke="#bcbd22" opacity="0.45"><title>MEM: memoáry, autobiografie Trans → 105: 7</title></path>
+<path id="flow18" d="M12 249.56385C155.07758 249.56385 155.07758 410.54354 298.15516 410.54354" fill="none" stroke-width="2.11646" stroke="#e377c2" opacity="0.45"><title>COL: kratší próza Trans → 100: 5</title></path>
+<path id="flow25" d="M12 297.63193C155.07758 297.63193 155.07758 412.66 298.15516 412.66" fill="none" stroke-width="2.11646" stroke="#bcbd22" opacity="0.45"><title>MEM: memoáry, autobiografie Trans → 100: 5</title></path>
+<path id="flow16" d="M12 237.07675C155.07758 237.07675 155.07758 270.59671 298.15516 270.59671" fill="none" stroke-width="1.69317" stroke="#e377c2" opacity="0.45"><title>COL: kratší próza Trans → 104: 4</title></path>
+<path id="flow19" d="M12 466.59872C155.07758 466.59872 155.07758 276.94609 298.15516 276.94609" fill="none" stroke-width="1.69317" stroke="#e377c2" opacity="0.45"><title>COL: kratší próza Czech → 104: 4</title></path>
+<path id="flow29" d="M12 295.93876C155.07758 295.93876 155.07758 347.23697 298.15516 347.23697" fill="none" stroke-width="1.26987" stroke="#bcbd22" opacity="0.45"><title>MEM: memoáry, autobiografie Trans → 102: 3</title></path>
+<path id="flow30" d="M12 288.31952C155.07758 288.31952 155.07758 86.81472 298.15516 86.81472" fill="none" stroke-width="1.26987" stroke="#bcbd22" opacity="0.45"><title>MEM: memoáry, autobiografie Trans → 101: 3</title></path>
+<path id="flow21" d="M12 464.90555C155.07758 464.90555 155.07758 92.10587 298.15516 92.10587" fill="none" stroke-width="1" stroke="#e377c2" opacity="0.45"><title>COL: kratší próza Czech → 101: 2</title></path>
+<path id="flow28" d="M12 542.18074C155.07758 542.18074 155.07758 278.21596 298.15516 278.21596" fill="none" stroke-width="1" stroke="#bcbd22" opacity="0.45"><title>MEM: memoáry, autobiografie Czech → 104: 2</title></path>
+<path id="flow10" d="M12 340.19722C155.07758 340.19722 155.07758 151.39117 298.15516 151.39117" fill="none" stroke-width="1" stroke="#17becf" opacity="0.45"><title>NOV: próza Czech → 105: 1</title></path>
+<path id="flow20" d="M12 465.54049C155.07758 465.54049 155.07758 151.81446 298.15516 151.81446" fill="none" stroke-width="1" stroke="#e377c2" opacity="0.45"><title>COL: kratší próza Czech → 105: 1</title></path>
+<path id="flow22" d="M12 427.20812C155.07758 427.20812 155.07758 357.39596 298.15516 357.39596" fill="none" stroke-width="1" stroke="#7f7f7f" opacity="0.45"><title>VER: poezie Czech → 102: 1</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="52.28552" height="128.25732" width="12" fill="#17becf" fill-opacity="1"><title>NOV: próza Trans:
+303</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="298.15516" y="21.83948" height="70.68968" width="12" fill="#1f77b4" fill-opacity="1"><title>101:
+167</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="0" y="335.75266" height="54.18131" width="12" fill="#17becf" fill-opacity="1"><title>NOV: próza Czech:
+128</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="298.15516" y="406.09898" height="104.553" width="12" fill="#ff7f0e" fill-opacity="1"><title>100:
+247</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="298.15516" y="315.70175" height="53.33473" width="12" fill="#2ca02c" fill-opacity="1"><title>102:
+126</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="298.15516" y="129.59166" height="22.43445" width="12" fill="#d62728" fill-opacity="1"><title>105:
+53</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="298.15516" y="189.08861" height="27.93724" width="12" fill="#9467bd" fill-opacity="1"><title>103:
+66</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="298.15516" y="254.08835" height="24.55091" width="12" fill="#8c564b" fill-opacity="1"><title>104:
+58</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="0" y="217.60534" height="33.01674" width="12" fill="#e377c2" fill-opacity="1"><title>COL: kratší próza Trans:
+78</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="0" y="464.48226" height="40.21269" width="12" fill="#e377c2" fill-opacity="1"><title>COL: kratší próza Czech:
+95</title></rect>
+</g>
+<g class="node">
+<rect id="r10" class="for_r10" x="0" y="426.99647" height="0.42329" width="12" fill="#7f7f7f" fill-opacity="1"><title>VER: poezie Czech:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r11" class="for_r11" x="0" y="541.75745" height="36.40307" width="12" fill="#bcbd22" fill-opacity="1"><title>MEM: memoáry, autobiografie Czech:
+86</title></rect>
+</g>
+<g class="node">
+<rect id="r12" class="for_r12" x="0" y="287.68458" height="11.00558" width="12" fill="#bcbd22" fill-opacity="1"><title>MEM: memoáry, autobiografie Trans:
+26</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="-127.41438" y="95.64687" width="125.78781" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.30492" y="116.41418" font-weight="400" font-size="14.4px" dy="-5.27344">NOV: próza Trans<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">303</tspan></text>
+<rect id="label1_bg" class="for_r1" x="311.78281" y="36.4125" width="39.11594" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="start" x="316.46008" y="57.18432" font-weight="400" font-size="14.4px" dy="-5.27344">101<tspan x="316.46008" dy="19.32" font-weight="400" font-size="17.6px">167</tspan></text>
+<rect id="label2_bg" class="for_r2" x="-131.43" y="342.06875" width="129.80344" height="41.28437" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="-6.30492" y="362.84331" font-weight="400" font-size="14.4px" dy="-5.27344">NOV: próza Czech<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">128</tspan></text>
+<rect id="label3_bg" class="for_r3" x="311.78281" y="437.6" width="39.11594" height="41.28437" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="start" x="316.46008" y="458.37548" font-weight="400" font-size="14.4px" dy="-5.27344">100<tspan x="316.46008" dy="19.32" font-weight="400" font-size="17.6px">247</tspan></text>
+<rect id="label4_bg" class="for_r4" x="311.78281" y="321.6" width="39.11594" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="start" x="316.46008" y="342.36912" font-weight="400" font-size="14.4px" dy="-5.27344">102<tspan x="316.46008" dy="19.32" font-weight="400" font-size="17.6px">126</tspan></text>
+<rect id="label5_bg" class="for_r5" x="311.78281" y="120.0375" width="33.78781" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="start" x="316.46008" y="140.80888" font-weight="400" font-size="14.4px" dy="-5.27344">105<tspan x="316.46008" dy="19.32" font-weight="400" font-size="17.6px">53</tspan></text>
+<rect id="label6_bg" class="for_r6" x="311.78281" y="182.2875" width="33.78781" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="start" x="316.46008" y="203.05723" font-weight="400" font-size="14.4px" dy="-5.27344">103<tspan x="316.46008" dy="19.32" font-weight="400" font-size="17.6px">66</tspan></text>
+<rect id="label7_bg" class="for_r7" x="311.78281" y="245.6" width="33.78781" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="start" x="316.46008" y="266.3638" font-weight="400" font-size="14.4px" dy="-5.27344">104<tspan x="316.46008" dy="19.32" font-weight="400" font-size="17.6px">58</tspan></text>
+<rect id="label8_bg" class="for_r8" x="-165.02375" y="213.35" width="163.39719" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="end" x="-6.30492" y="234.11371" font-weight="400" font-size="14.4px" dy="-5.27344">COL: kratší próza Trans<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">78</tspan></text>
+<rect id="label9_bg" class="for_r9" x="-169.03938" y="463.81875" width="167.41281" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label9" class="for_r9" text-anchor="end" x="-6.30492" y="484.58861" font-weight="400" font-size="14.4px" dy="-5.27344">COL: kratší próza Czech<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">95</tspan></text>
+<rect id="label10_bg" class="for_r10" x="-136.2425" y="406.44375" width="134.61594" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label10" class="for_r10" text-anchor="end" x="-6.30492" y="427.20812" font-weight="400" font-size="14.4px" dy="-5.27344">VER: poezie Czech<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label11_bg" class="for_r11" x="-249.07063" y="539.19375" width="247.44406" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label11" class="for_r11" text-anchor="end" x="-6.30492" y="559.95899" font-weight="400" font-size="14.4px" dy="-5.27344">MEM: memoáry, autobiografie Czech<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">86</tspan></text>
+<rect id="label12_bg" class="for_r12" x="-245.07063" y="272.4125" width="243.44406" height="41.28437" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label12" class="for_r12" text-anchor="end" x="-6.30492" y="293.18737" font-weight="400" font-size="14.4px" dy="-5.27344">MEM: memoáry, autobiografie Trans<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">26</tspan></text>
+</g>
+</g></svg>

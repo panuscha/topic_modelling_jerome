@@ -1,0 +1,221 @@
+<svg height="600" width="600" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 05/06/2024, 10:46:16 -->
+<rect height="600" width="600" fill="#ffffff"></rect>
+<g transform="translate(40.75055,0)">
+<g id="sankey_flows">
+<path id="flow1" d="M12 128.00722C259.24945 128.00722 259.24945 154.39517 506.49891 154.39517" fill="none" stroke-width="37.26846" stroke="#ff7f0e" opacity="0.45"><title>1 → 100: 180</title></path>
+<path id="flow0" d="M12 37.11463v31.67819L506.49891 67.43856v-31.67819z" fill="#17becf" stroke-width="0.5" stroke="#17becf" opacity="0.45"><title>0 → 101: 153</title></path>
+<path id="flow42" d="M12 402.02455C259.24945 402.02455 259.24945 391.30052 506.49891 391.30052" fill="none" stroke-width="25.88087" stroke="#8c564b" opacity="0.45"><title>2 → -1: 125</title></path>
+<path id="flow5" d="M12 177.17984C259.24945 177.17984 259.24945 211.43558 506.49891 211.43558" fill="none" stroke-width="18.84128" stroke="#e377c2" opacity="0.45"><title>3 → 102: 91</title></path>
+<path id="flow43" d="M12 248.09135C259.24945 248.09135 259.24945 325.77015 506.49891 325.77015" fill="none" stroke-width="15.32148" stroke="#2ca02c" opacity="0.45"><title>4 → -1: 74</title></path>
+<path id="flow54" d="M12 536.70342C259.24945 536.70342 259.24945 453.51814 506.49891 453.51814" fill="none" stroke-width="15.32148" stroke="#ff7f0e" opacity="0.45"><title>6 → -1: 74</title></path>
+<path id="flow49" d="M12 316.72431C259.24945 316.72431 259.24945 349.68408 506.49891 349.68408" fill="none" stroke-width="12.62987" stroke="#1f77b4" opacity="0.45"><title>7 → -1: 61</title></path>
+<path id="flow6" d="M12 210.72041C259.24945 210.72041 259.24945 245.59729 506.49891 245.59729" fill="none" stroke-width="12.21577" stroke="#8c564b" opacity="0.45"><title>5 → 103: 59</title></path>
+<path id="flow46" d="M12 343.94995C259.24945 343.94995 259.24945 361.79633 506.49891 361.79633" fill="none" stroke-width="11.59463" stroke="#ff7f0e" opacity="0.45"><title>8 → -1: 56</title></path>
+<path id="flow51" d="M12 486.60013C259.24945 486.60013 259.24945 430.74297 506.49891 430.74297" fill="none" stroke-width="11.18054" stroke="#bcbd22" opacity="0.45"><title>11 → -1: 54</title></path>
+<path id="flow50" d="M12 435.97922C259.24945 435.97922 259.24945 409.7277 506.49891 409.7277" fill="none" stroke-width="10.97349" stroke="#e377c2" opacity="0.45"><title>9 → -1: 53</title></path>
+<path id="flow56" d="M12 369.0016C259.24945 369.0016 259.24945 372.97686 506.49891 372.97686" fill="none" stroke-width="10.76644" stroke="#d62728" opacity="0.45"><title>12 → -1: 52</title></path>
+<path id="flow52" d="M12 462.16962C259.24945 462.16962 259.24945 420.18358 506.49891 420.18358" fill="none" stroke-width="9.93826" stroke="#7f7f7f" opacity="0.45"><title>10 → -1: 48</title></path>
+<path id="flow48" d="M12 510.61654C259.24945 510.61654 259.24945 441.09532 506.49891 441.09532" fill="none" stroke-width="9.52416" stroke="#1f77b4" opacity="0.45"><title>13 → -1: 46</title></path>
+<path id="flow3" d="M12 73.45137C259.24945 73.45137 259.24945 88.65984 506.49891 88.65984" fill="none" stroke-width="9.31711" stroke="#17becf" opacity="0.45"><title>0 → 105: 45</title></path>
+<path id="flow16" d="M12 236.70377C259.24945 236.70377 259.24945 177.79148 506.49891 177.79148" fill="none" stroke-width="6.6255" stroke="#2ca02c" opacity="0.45"><title>4 → 100: 32</title></path>
+<path id="flow55" d="M12 561.13393C259.24945 561.13393 259.24945 464.28458 506.49891 464.28458" fill="none" stroke-width="6.21141" stroke="#2ca02c" opacity="0.45"><title>15 → -1: 30</title></path>
+<path id="flow57" d="M12 292.60437C259.24945 292.60437 259.24945 340.26344 506.49891 340.26344" fill="none" stroke-width="6.21141" stroke="#17becf" opacity="0.45"><title>14 → -1: 30</title></path>
+<path id="flow11" d="M12 106.47433C259.24945 106.47433 259.24945 115.26433 506.49891 115.26433" fill="none" stroke-width="5.79732" stroke="#ff7f0e" opacity="0.45"><title>1 → 104: 28</title></path>
+<path id="flow8" d="M12 79.97335C259.24945 79.97335 259.24945 110.50225 506.49891 110.50225" fill="none" stroke-width="3.72685" stroke="#17becf" opacity="0.45"><title>0 → 104: 18</title></path>
+<path id="flow41" d="M12 149.9542C259.24945 149.9542 259.24945 312.10505 506.49891 312.10505" fill="none" stroke-width="3.72685" stroke="#ff7f0e" opacity="0.45"><title>1 → -1: 18</title></path>
+<path id="flow53" d="M12 273.143C259.24945 273.143 259.24945 335.29431 506.49891 335.29431" fill="none" stroke-width="3.72685" stroke="#9467bd" opacity="0.45"><title>16 → -1: 18</title></path>
+<path id="flow45" d="M12 86.80591C259.24945 86.80591 259.24945 308.7923 506.49891 308.7923" fill="none" stroke-width="2.89866" stroke="#17becf" opacity="0.45"><title>0 → -1: 14</title></path>
+<path id="flow47" d="M12 218.27762C259.24945 218.27762 259.24945 316.66009 506.49891 316.66009" fill="none" stroke-width="2.89866" stroke="#8c564b" opacity="0.45"><title>5 → -1: 14</title></path>
+<path id="flow14" d="M12 166.62044C259.24945 166.62044 259.24945 119.0947 506.49891 119.0947" fill="none" stroke-width="1.86342" stroke="#e377c2" opacity="0.45"><title>3 → 104: 9</title></path>
+<path id="flow2" d="M12 147.36611C259.24945 147.36611 259.24945 201.29028 506.49891 201.29028" fill="none" stroke-width="1.44933" stroke="#ff7f0e" opacity="0.45"><title>1 → 102: 7</title></path>
+<path id="flow10" d="M12 84.01077C259.24945 84.01077 259.24945 199.84095 506.49891 199.84095" fill="none" stroke-width="1.44933" stroke="#17becf" opacity="0.45"><title>0 → 102: 7</title></path>
+<path id="flow27" d="M12 82.56144C259.24945 82.56144 259.24945 135.03628 506.49891 135.03628" fill="none" stroke-width="1.44933" stroke="#17becf" opacity="0.45"><title>0 → 100: 7</title></path>
+<path id="flow4" d="M12 202.95615C259.24945 202.95615 259.24945 173.85759 506.49891 173.85759" fill="none" stroke-width="1.24228" stroke="#8c564b" opacity="0.45"><title>5 → 100: 6</title></path>
+<path id="flow30" d="M12 429.45724C259.24945 429.45724 259.24945 183.5888 506.49891 183.5888" fill="none" stroke-width="1.24228" stroke="#e377c2" opacity="0.45"><title>9 → 100: 6</title></path>
+<path id="flow36" d="M12 455.95821C259.24945 455.95821 259.24945 184.83108 506.49891 184.83108" fill="none" stroke-width="1.24228" stroke="#7f7f7f" opacity="0.45"><title>10 → 100: 6</title></path>
+<path id="flow44" d="M12 187.22161C259.24945 187.22161 259.24945 314.58962 506.49891 314.58962" fill="none" stroke-width="1.24228" stroke="#e377c2" opacity="0.45"><title>3 → -1: 6</title></path>
+<path id="flow7" d="M12 102.43691C259.24945 102.43691 259.24945 67.95618 506.49891 67.95618" fill="none" stroke-width="1.03523" stroke="#ff7f0e" opacity="0.45"><title>1 → 101: 5</title></path>
+<path id="flow17" d="M12 204.0949C259.24945 204.0949 259.24945 221.37383 506.49891 221.37383" fill="none" stroke-width="1.03523" stroke="#8c564b" opacity="0.45"><title>5 → 102: 5</title></path>
+<path id="flow9" d="M12 289.08458C259.24945 289.08458 259.24945 223.13373 506.49891 223.13373" fill="none" stroke-width="1" stroke="#17becf" opacity="0.45"><title>14 → 102: 4</title></path>
+<path id="flow13" d="M12 337.63502C259.24945 337.63502 259.24945 223.8584 506.49891 223.8584" fill="none" stroke-width="1" stroke="#ff7f0e" opacity="0.45"><title>8 → 102: 3</title></path>
+<path id="flow15" d="M12 85.04601C259.24945 85.04601 259.24945 239.17884 506.49891 239.17884" fill="none" stroke-width="1" stroke="#17becf" opacity="0.45"><title>0 → 103: 3</title></path>
+<path id="flow19" d="M12 269.72672C259.24945 269.72672 259.24945 69.4055 506.49891 69.4055" fill="none" stroke-width="1" stroke="#9467bd" opacity="0.45"><title>16 → 101: 3</title></path>
+<path id="flow20" d="M12 270.969C259.24945 270.969 259.24945 222.40907 506.49891 222.40907" fill="none" stroke-width="1" stroke="#9467bd" opacity="0.45"><title>16 → 102: 3</title></path>
+<path id="flow25" d="M12 103.2651C259.24945 103.2651 259.24945 93.62896 506.49891 93.62896" fill="none" stroke-width="1" stroke="#ff7f0e" opacity="0.45"><title>1 → 105: 3</title></path>
+<path id="flow29" d="M12 388.5665C259.24945 388.5665 259.24945 182.65709 506.49891 182.65709" fill="none" stroke-width="1" stroke="#8c564b" opacity="0.45"><title>2 → 100: 3</title></path>
+<path id="flow12" d="M12 309.78824C259.24945 309.78824 259.24945 94.56067 506.49891 94.56067" fill="none" stroke-width="1" stroke="#1f77b4" opacity="0.45"><title>7 → 105: 2</title></path>
+<path id="flow21" d="M12 201.71386C259.24945 201.71386 259.24945 68.88789 506.49891 68.88789" fill="none" stroke-width="1" stroke="#8c564b" opacity="0.45"><title>5 → 101: 2</title></path>
+<path id="flow26" d="M12 270.45139C259.24945 270.45139 259.24945 181.31128 506.49891 181.31128" fill="none" stroke-width="1" stroke="#9467bd" opacity="0.45"><title>16 → 100: 2</title></path>
+<path id="flow35" d="M12 456.7864C259.24945 456.7864 259.24945 224.79011 506.49891 224.79011" fill="none" stroke-width="1" stroke="#7f7f7f" opacity="0.45"><title>10 → 102: 2</title></path>
+<path id="flow60" d="M12 310.20233C259.24945 310.20233 259.24945 181.72538 506.49891 181.72538" fill="none" stroke-width="1" stroke="#1f77b4" opacity="0.45"><title>7 → 100: 2</title></path>
+<path id="flow62" d="M12 430.28542C259.24945 430.28542 259.24945 224.37602 506.49891 224.37602" fill="none" stroke-width="1" stroke="#e377c2" opacity="0.45"><title>9 → 102: 2</title></path>
+<path id="flow64" d="M12 337.1174C259.24945 337.1174 259.24945 182.13947 506.49891 182.13947" fill="none" stroke-width="1" stroke="#ff7f0e" opacity="0.45"><title>8 → 100: 2</title></path>
+<path id="flow18" d="M12 363.51485C259.24945 363.51485 259.24945 120.33698 506.49891 120.33698" fill="none" stroke-width="1" stroke="#d62728" opacity="0.45"><title>12 → 104: 1</title></path>
+<path id="flow22" d="M12 202.23148C259.24945 202.23148 259.24945 120.12994 506.49891 120.12994" fill="none" stroke-width="1" stroke="#8c564b" opacity="0.45"><title>5 → 104: 1</title></path>
+<path id="flow23" d="M12 388.1524C259.24945 388.1524 259.24945 70.02665 506.49891 70.02665" fill="none" stroke-width="1" stroke="#8c564b" opacity="0.45"><title>2 → 101: 1</title></path>
+<path id="flow24" d="M12 270.14082C259.24945 270.14082 259.24945 94.2501 506.49891 94.2501" fill="none" stroke-width="1" stroke="#9467bd" opacity="0.45"><title>16 → 105: 1</title></path>
+<path id="flow28" d="M12 338.04911C259.24945 338.04911 259.24945 252.01575 506.49891 252.01575" fill="none" stroke-width="1" stroke="#ff7f0e" opacity="0.45"><title>8 → 103: 1</title></path>
+<path id="flow31" d="M12 202.02443C259.24945 202.02443 259.24945 94.04306 506.49891 94.04306" fill="none" stroke-width="1" stroke="#8c564b" opacity="0.45"><title>5 → 105: 1</title></path>
+<path id="flow32" d="M12 457.09697C259.24945 457.09697 259.24945 252.42984 506.49891 252.42984" fill="none" stroke-width="1" stroke="#7f7f7f" opacity="0.45"><title>10 → 103: 1</title></path>
+<path id="flow33" d="M12 455.23355C259.24945 455.23355 259.24945 120.54403 506.49891 120.54403" fill="none" stroke-width="1" stroke="#7f7f7f" opacity="0.45"><title>10 → 104: 1</title></path>
+<path id="flow34" d="M12 480.90634C259.24945 480.90634 259.24945 225.10068 506.49891 225.10068" fill="none" stroke-width="1" stroke="#bcbd22" opacity="0.45"><title>11 → 102: 1</title></path>
+<path id="flow37" d="M12 165.5852C259.24945 165.5852 259.24945 68.57732 506.49891 68.57732" fill="none" stroke-width="1" stroke="#e377c2" opacity="0.45"><title>3 → 101: 1</title></path>
+<path id="flow38" d="M12 240.12004C259.24945 240.12004 259.24945 221.99498 506.49891 221.99498" fill="none" stroke-width="1" stroke="#2ca02c" opacity="0.45"><title>4 → 102: 1</title></path>
+<path id="flow39" d="M12 167.65567C259.24945 167.65567 259.24945 173.13293 506.49891 173.13293" fill="none" stroke-width="1" stroke="#e377c2" opacity="0.45"><title>3 → 100: 1</title></path>
+<path id="flow40" d="M12 309.47766C259.24945 309.47766 259.24945 69.8196 506.49891 69.8196" fill="none" stroke-width="1" stroke="#1f77b4" opacity="0.45"><title>7 → 101: 1</title></path>
+<path id="flow58" d="M12 240.32709C259.24945 240.32709 259.24945 251.8087 506.49891 251.8087" fill="none" stroke-width="1" stroke="#2ca02c" opacity="0.45"><title>4 → 103: 1</title></path>
+<path id="flow59" d="M12 336.80683C259.24945 336.80683 259.24945 94.87124 506.49891 94.87124" fill="none" stroke-width="1" stroke="#ff7f0e" opacity="0.45"><title>8 → 105: 1</title></path>
+<path id="flow61" d="M12 388.98059C259.24945 388.98059 259.24945 252.2228 506.49891 252.2228" fill="none" stroke-width="1" stroke="#8c564b" opacity="0.45"><title>2 → 103: 1</title></path>
+<path id="flow63" d="M12 428.73257C259.24945 428.73257 259.24945 70.23369 506.49891 70.23369" fill="none" stroke-width="1" stroke="#e377c2" opacity="0.45"><title>9 → 101: 1</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="37.11463" height="51.1406" width="12" fill="#17becf" fill-opacity="1"><title>0:
+247</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="506.49891" y="35.76037" height="34.57685" width="12" fill="#1f77b4" fill-opacity="1"><title>101:
+167</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="0" y="101.9193" height="49.89832" width="12" fill="#ff7f0e" fill-opacity="1"><title>1:
+241</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="506.49891" y="134.31162" height="51.1406" width="12" fill="#2ca02c" fill-opacity="1"><title>100:
+247</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="506.49891" y="199.11628" height="26.08792" width="12" fill="#d62728" fill-opacity="1"><title>102:
+126</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="506.49891" y="84.00128" height="10.97349" width="12" fill="#9467bd" fill-opacity="1"><title>105:
+53</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="0" y="201.50682" height="18.22013" width="12" fill="#8c564b" fill-opacity="1"><title>5:
+88</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="0" y="165.48168" height="22.36107" width="12" fill="#e377c2" fill-opacity="1"><title>3:
+108</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="506.49891" y="238.86827" height="13.6651" width="12" fill="#7f7f7f" fill-opacity="1"><title>103:
+66</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="506.49891" y="108.63883" height="12.00872" width="12" fill="#bcbd22" fill-opacity="1"><title>104:
+58</title></rect>
+</g>
+<g class="node">
+<rect id="r10" class="for_r10" x="0" y="288.67048" height="7.0396" width="12" fill="#17becf" fill-opacity="1"><title>14:
+34</title></rect>
+</g>
+<g class="node">
+<rect id="r11" class="for_r11" x="0" y="309.37414" height="13.6651" width="12" fill="#1f77b4" fill-opacity="1"><title>7:
+66</title></rect>
+</g>
+<g class="node">
+<rect id="r12" class="for_r12" x="0" y="336.7033" height="13.04396" width="12" fill="#ff7f0e" fill-opacity="1"><title>8:
+63</title></rect>
+</g>
+<g class="node">
+<rect id="r13" class="for_r13" x="0" y="233.39101" height="22.36107" width="12" fill="#2ca02c" fill-opacity="1"><title>4:
+108</title></rect>
+</g>
+<g class="node">
+<rect id="r14" class="for_r14" x="0" y="363.41133" height="10.97349" width="12" fill="#d62728" fill-opacity="1"><title>12:
+53</title></rect>
+</g>
+<g class="node">
+<rect id="r15" class="for_r15" x="0" y="269.41615" height="5.59027" width="12" fill="#9467bd" fill-opacity="1"><title>16:
+27</title></rect>
+</g>
+<g class="node">
+<rect id="r16" class="for_r16" x="0" y="388.04888" height="26.91611" width="12" fill="#8c564b" fill-opacity="1"><title>2:
+130</title></rect>
+</g>
+<g class="node">
+<rect id="r17" class="for_r17" x="0" y="428.62905" height="12.83691" width="12" fill="#e377c2" fill-opacity="1"><title>9:
+62</title></rect>
+</g>
+<g class="node">
+<rect id="r18" class="for_r18" x="0" y="455.13002" height="12.00872" width="12" fill="#7f7f7f" fill-opacity="1"><title>10:
+58</title></rect>
+</g>
+<g class="node">
+<rect id="r19" class="for_r19" x="0" y="480.80281" height="11.38758" width="12" fill="#bcbd22" fill-opacity="1"><title>11:
+55</title></rect>
+</g>
+<g class="node">
+<rect id="r20" class="for_r20" x="506.49891" y="307.34297" height="160.04732" width="12" fill="#17becf" fill-opacity="1"><title>-1:
+773</title></rect>
+</g>
+<g class="node">
+<rect id="r21" class="for_r21" x="0" y="505.85446" height="9.52416" width="12" fill="#1f77b4" fill-opacity="1"><title>13:
+46</title></rect>
+</g>
+<g class="node">
+<rect id="r22" class="for_r22" x="0" y="529.04268" height="15.32148" width="12" fill="#ff7f0e" fill-opacity="1"><title>6:
+74</title></rect>
+</g>
+<g class="node">
+<rect id="r23" class="for_r23" x="0" y="558.02822" height="6.21141" width="12" fill="#2ca02c" fill-opacity="1"><title>15:
+30</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="-40.7425" y="41.9125" width="39.11594" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.30492" y="62.68493" font-weight="400" font-size="14.4px" dy="-5.27344">0<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">247</tspan></text>
+<rect id="label1_bg" class="for_r1" x="520.12656" y="32.27188" width="39.11594" height="41.28437" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="start" x="524.80383" y="53.04879" font-weight="400" font-size="14.4px" dy="-5.27344">101<tspan x="524.80383" dy="19.32" font-weight="400" font-size="17.6px">167</tspan></text>
+<rect id="label2_bg" class="for_r2" x="-40.7425" y="106.1" width="39.11594" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="-6.30492" y="126.86846" font-weight="400" font-size="14.4px" dy="-5.27344">1<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">241</tspan></text>
+<rect id="label3_bg" class="for_r3" x="520.12656" y="139.11562" width="39.11594" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="start" x="524.80383" y="159.88192" font-weight="400" font-size="14.4px" dy="-5.27344">100<tspan x="524.80383" dy="19.32" font-weight="400" font-size="17.6px">247</tspan></text>
+<rect id="label4_bg" class="for_r4" x="520.12656" y="191.39687" width="39.11594" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="start" x="524.80383" y="212.16024" font-weight="400" font-size="14.4px" dy="-5.27344">102<tspan x="524.80383" dy="19.32" font-weight="400" font-size="17.6px">126</tspan></text>
+<rect id="label5_bg" class="for_r5" x="520.12656" y="68.725" width="33.78781" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="start" x="524.80383" y="89.48802" font-weight="400" font-size="14.4px" dy="-5.27344">105<tspan x="524.80383" dy="19.32" font-weight="400" font-size="17.6px">53</tspan></text>
+<rect id="label6_bg" class="for_r6" x="-30.96125" y="189.85" width="29.33469" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="end" x="-6.30492" y="210.61688" font-weight="400" font-size="14.4px" dy="-5.27344">5<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">88</tspan></text>
+<rect id="label7_bg" class="for_r7" x="-40.7425" y="155.89687" width="39.11594" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="end" x="-6.30492" y="176.66222" font-weight="400" font-size="14.4px" dy="-5.27344">3<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">108</tspan></text>
+<rect id="label8_bg" class="for_r8" x="520.12656" y="224.92812" width="33.78781" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="start" x="524.80383" y="245.70082" font-weight="400" font-size="14.4px" dy="-5.27344">103<tspan x="524.80383" dy="19.32" font-weight="400" font-size="17.6px">66</tspan></text>
+<rect id="label9_bg" class="for_r9" x="520.12656" y="93.88125" width="33.78781" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label9" class="for_r9" text-anchor="start" x="524.80383" y="114.64319" font-weight="400" font-size="14.4px" dy="-5.27344">104<tspan x="524.80383" dy="19.32" font-weight="400" font-size="17.6px">58</tspan></text>
+<rect id="label10_bg" class="for_r10" x="-30.96125" y="271.42813" width="29.33469" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label10" class="for_r10" text-anchor="end" x="-6.30492" y="292.19028" font-weight="400" font-size="14.4px" dy="-5.27344">14<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">34</tspan></text>
+<rect id="label11_bg" class="for_r11" x="-30.96125" y="295.44375" width="29.33469" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label11" class="for_r11" text-anchor="end" x="-6.30492" y="316.20669" font-weight="400" font-size="14.4px" dy="-5.27344">7<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">66</tspan></text>
+<rect id="label12_bg" class="for_r12" x="-30.96125" y="322.45938" width="29.33469" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label12" class="for_r12" text-anchor="end" x="-6.30492" y="343.22528" font-weight="400" font-size="14.4px" dy="-5.27344">8<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">63</tspan></text>
+<rect id="label13_bg" class="for_r13" x="-40.7425" y="223.80312" width="39.11594" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label13" class="for_r13" text-anchor="end" x="-6.30492" y="244.57155" font-weight="400" font-size="14.4px" dy="-5.27344">4<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">108</tspan></text>
+<rect id="label14_bg" class="for_r14" x="-30.96125" y="348.13125" width="29.33469" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label14" class="for_r14" text-anchor="end" x="-6.30492" y="368.89807" font-weight="400" font-size="14.4px" dy="-5.27344">12<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">53</tspan></text>
+<rect id="label15_bg" class="for_r15" x="-30.96125" y="251.44375" width="29.33469" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label15" class="for_r15" text-anchor="end" x="-6.30492" y="272.21128" font-weight="400" font-size="14.4px" dy="-5.27344">16<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">27</tspan></text>
+<rect id="label16_bg" class="for_r16" x="-40.7425" y="380.74063" width="39.11594" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label16" class="for_r16" text-anchor="end" x="-6.30492" y="401.50693" font-weight="400" font-size="14.4px" dy="-5.27344">2<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">130</tspan></text>
+<rect id="label17_bg" class="for_r17" x="-30.96125" y="414.27188" width="29.33469" height="41.28437" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label17" class="for_r17" text-anchor="end" x="-6.30492" y="435.04751" font-weight="400" font-size="14.4px" dy="-5.27344">9<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">62</tspan></text>
+<rect id="label18_bg" class="for_r18" x="-30.96125" y="440.36563" width="29.33469" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label18" class="for_r18" text-anchor="end" x="-6.30492" y="461.13439" font-weight="400" font-size="14.4px" dy="-5.27344">10<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">58</tspan></text>
+<rect id="label19_bg" class="for_r19" x="-30.96125" y="465.725" width="29.33469" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label19" class="for_r19" text-anchor="end" x="-6.30492" y="486.4966" font-weight="400" font-size="14.4px" dy="-5.27344">11<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">55</tspan></text>
+<rect id="label20_bg" class="for_r20" x="520.12656" y="366.6" width="39.11594" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label20" class="for_r20" text-anchor="start" x="524.80383" y="387.36663" font-weight="400" font-size="14.4px" dy="-5.27344">-1<tspan x="524.80383" dy="19.32" font-weight="400" font-size="17.6px">773</tspan></text>
+<rect id="label21_bg" class="for_r21" x="-30.96125" y="489.85" width="29.33469" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label21" class="for_r21" text-anchor="end" x="-6.30492" y="510.61654" font-weight="400" font-size="14.4px" dy="-5.27344">13<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">46</tspan></text>
+<rect id="label22_bg" class="for_r22" x="-30.96125" y="515.92813" width="29.33469" height="41.28437" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label22" class="for_r22" text-anchor="end" x="-6.30492" y="536.70342" font-weight="400" font-size="14.4px" dy="-5.27344">6<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">74</tspan></text>
+<rect id="label23_bg" class="for_r23" x="-30.96125" y="540.36563" width="29.33469" height="41.26875" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label23" class="for_r23" text-anchor="end" x="-6.30492" y="561.13393" font-weight="400" font-size="14.4px" dy="-5.27344">15<tspan x="-6.30492" dy="19.32" font-weight="400" font-size="17.6px">30</tspan></text>
+</g>
+</g></svg>
